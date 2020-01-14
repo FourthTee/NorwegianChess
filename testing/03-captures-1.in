@@ -1,0 +1,23 @@
+#* java -ea tablut.Main
+# Check captures of king on throne.
+manual white
+i4-f
+dump
+e4-b
+dump
+f4-e
+dump
+f5-2
+dump
+f9-5
+dump
+e6-h
+dump
+a6-e
+dump
+d5-2
+dump
+d9-5
+#*win+
+dump
+quit
